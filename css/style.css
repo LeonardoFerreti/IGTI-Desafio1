@@ -1,0 +1,22 @@
+a#panelColor {
+  width: 100px;
+  height: 100px;
+  float: left;
+  text-align: center;
+  background-color: white;
+  border: 1px solid black;
+}
+
+input {
+  width: 100%;
+}
+
+inputColor {
+  width: 200px;
+  margin-left: 30px;
+}
+
+.textColor {
+  width: 50px;
+  margin-left: 20px;
+}
